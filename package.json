@@ -1,0 +1,10 @@
+{
+  "Name": "test.com",
+  "Version": "v1.0.0",
+  "Packages": {
+    "official-redis": {
+      "Uri": "github.com/go-redis/redis/v8",
+      "Private": false
+    }
+  }
+}
